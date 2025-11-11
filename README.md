@@ -13,3 +13,5 @@ format: http://13.201.99.145:3000/api/tokens? {constraints}
 3.sortBy = 'volume' | 'price_change' | 'market_cap' | 'liquidity' | 'transaction_count'  
 4.order =  'asc' | 'desc'  
 
+socket_client.html : realtime problem to check functionality of websocket  
+test.js: file to run unit/integration test.
